@@ -4,4 +4,6 @@ This is based on the tutorial provided on https://hackernoon.com/learn-blockchai
 
 The tutorial used Flask to create a blockchain class and made it work. Besides the Flask, this repository also used Django to do the same thing.
 
-The structure and the idea are provided in blockchain structure markdown file
+The structure and the idea are provided in blockchain structure markdown file.
+
+Hope it could be helpful to you if you're also learning to create a blockchain app.
